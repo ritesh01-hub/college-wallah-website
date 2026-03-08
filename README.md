@@ -55,7 +55,7 @@ cd college-wallah-website
 
 ## 📸 Preview
 
-(Add a screenshot of your website here)
+!https://github.com/ritesh01-hub/college-wallah-website/blob/04a15b4e32fd5fba73860fb73d670d3a4e72035f/Screenshot%202026-03-08%20174317.png
 
 ---
 
